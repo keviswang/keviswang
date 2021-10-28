@@ -20,5 +20,4 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=keviswang&show_icons=true&theme=gotham" alt="keviswang" />
 
-
-<p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=keviswang&theme=tokyonigh" alt="streak-stats" />
+<p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=keviswang&theme=tokyonight" alt="streak-stats" />
